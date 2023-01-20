@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BulkPostcodeResponse">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Result">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Postcode">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAUBAAAlAACAAAAQEARAAACIEAAKQCAAAAAAACAAA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Codes">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEBCAAhAACAAAAAAARAAAAAEAAAAAAAAAEAACAAA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SinglePostcodeResponse">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
